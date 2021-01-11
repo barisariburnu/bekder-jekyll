@@ -1,0 +1,45 @@
+# Site
+name: "Bursa Engelliler Kültür Derneği"
+title: "Bursa Engelliler Kültür Derneği"
+description: "Bursa Engelliler Kültür Derneği; bünyesinde bulunan engelli vatandaşlar için din, dil, ırk, bölge ve cinsiyet ayırımı gözetmeksizin gerekli desteği sağlamayı amaçlamaktadır."
+meta_description: "Bursa Engelliler Kültür Derneği; bünyesinde bulunan engelli vatandaşlar için din, dil, ırk, bölge ve cinsiyet ayırımı gözetmeksizin gerekli desteği sağlamayı amaçlamaktadır."
+logo: "assets/images/logo.png"
+favicon: "assets/images/favicon.ico"
+paginate: 10
+baseurl: ""
+email: "huseyinariburnu@gmail.com"
+google_analytics: "UA-163622146-1"
+disqus: "bursa-engelliler-kultur-dernegi"
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5efc6f474b89f600120fce12&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  bekder:
+    name: bekder
+    display_name: Bursa Engelliler Kültür Derneği
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: huseyinariburnu@gmail.com
+    web: https://bursaengellilerkulturdernegi.com
+    description: "Bursa Engelliler Kültür Derneği; bünyesinde bulunan engelli vatandaşlar için din, dil, ırk, bölge ve cinsiyet ayırımı gözetmeksizin gerekli desteği sağlamayı amaçlamaktadır."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+paginate_path: "/blog/:num/"
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: "/category/:name/"
+
+# Other
+markdown: kramdown
+highlighter: rouge
