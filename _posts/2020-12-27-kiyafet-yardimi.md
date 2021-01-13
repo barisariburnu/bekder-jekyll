@@ -1,16 +1,16 @@
 ---
 layout: post
 title: 'Giyim Yardımı'
-description: "Bursa Engelliler Kültür Derneği ailesi olarak zihinsel engelli üyemiz ABC'ın bu kış için acil kıyafet ihtiyaçlarının karşılanmasına vesile olduk."
+description: "Bursa Engelliler Kültür Derneği ailesi olarak Kovid-19'dan vefat eden üyemiz Ali Cin'in çocuklarının kışlık kıyafet ihtiyaçlarının karşılanmasına vesile olduk."
 author: bekder
 categories: [Yardım]
 image: assets/images/blog/yardim.jpg
 featured: false
 ---
 
-Bursa Engelliler Kültür Derneği ailesi olarak zihinsel engelli üyemiz ABC'ın bu kış için acil giyim ihtiyaçlarının karşılanmasına vesile olduk.
+Bursa Engelliler Kültür Derneği ailesi olarak Kovid-19'dan vefat eden üyemiz Ali Cin'in çocuklarının kışlık kıyafet ihtiyaçlarının karşılanmasına vesile olduk.
 
-ABC'ın giyim ihtiyaçlarını karşılayan üyelerimiz ve bağışçılarımıza desteklerinden dolayı canı gönülden teşekkür ederiz.
+Çocuklarımızın giyim ihtiyaçlarını karşılayan hem üyemiz hem destekçimiz Şenol Ahmetoğlu’na desteklerinden dolayı canı gönülden teşekkür ederiz.
 
 ### Görseller
 
