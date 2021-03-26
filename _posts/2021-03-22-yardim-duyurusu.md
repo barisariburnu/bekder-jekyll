@@ -10,9 +10,9 @@ featured: true
 
 2 çocuk sahibi engelli ailemiz için kıyafet, eşya, kira ve kirtasiye desteğine ihtiyacımız bulunmaktadır. Bu hususta engelli ailemiz ile doğrudan irtibata geçerek desteklerinizi iletebilmeniz için araç olmak istiyoruz.
 
-İhtiyaç sahibi engelli ailemiz için her türlü desteğinizi bekliyoruz. Yaptığınız ve yapacağınız tüm destekler için teşekkür ederiz.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s4jktcwoVZE?controls=0" title="Yardım Duyurusu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom:15px;"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s4jktcwoVZE?controls=0" title="Yardım Duyurusu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+İhtiyaç sahibi engelli ailemiz için her türlü desteğinizi bekliyoruz. Yaptığınız ve yapacağınız tüm destekler için teşekkür ederiz.
 
 ### Görseller
 
