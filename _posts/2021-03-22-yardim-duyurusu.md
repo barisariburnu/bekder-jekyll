@@ -12,6 +12,8 @@ featured: true
 
 İhtiyaç sahibi engelli ailemiz için her türlü desteğinizi bekliyoruz. Yaptığınız ve yapacağınız tüm destekler için teşekkür ederiz.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s4jktcwoVZE?controls=0" title="Yardım Duyurusu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Görseller
 
 <a href="/assets/images/blog/hayat-boyu-destek-1.jpeg" data-lightbox="hayat-boyu-destek" data-title="Yardım Duyurusu">
