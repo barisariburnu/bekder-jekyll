@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'E-KPSS Duyurusu'
-description: 'ÖSYM 2020 sınav takvimini açıkladı. Yayınlanan takvime göre 2020 Engelli Kamu Personeli Seçme Sınavı (EKPSS) 26.04.2020 tarihinde yapılacak.'
+title: "E-KPSS Duyurusu"
+description: "ÖSYM 2020 sınav takvimini açıkladı. Yayınlanan takvime göre 2020 Engelli Kamu Personeli Seçme Sınavı (EKPSS) 26.04.2020 tarihinde yapılacak."
 author: bekder
 categories: [duyuru]
 image: assets/images/blog/ekpss-duyurusu-2019.jpg
-featured: true
+featured: false
 ---
 
 ÖSYM 2020 sınav takvimini açıkladı. Yayınlanan takvime göre 2020 Engelli Kamu Personeli Seçme Sınavı (EKPSS) 26.04.2020 tarihinde yapılacak.

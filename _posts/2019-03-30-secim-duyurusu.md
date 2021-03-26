@@ -5,7 +5,7 @@ description: "Oyunuzun kutsal olduğunu hatırınızdan çıkarmayınız ve iste
 author: bekder
 categories: [duyuru]
 image: assets/images/blog/secim-duyurusu.jpg
-featured: true
+featured: false
 ---
 
 Yüksek Seçim Kurulu Başkanlığı'nın Resmi Gazete'nin 11/01/2014 Cumartesi günlü 28879 Sayılı Nüshasında yayımlanmış olan, 08/01/2014 Günlü 23 Nolu Kararı ile kararın eki olarak yürürlüğe konulan Örnek: 138 Nolu genelgenin görme engelliler ile ilgili olan maddeleri şu şekildedir:

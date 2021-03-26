@@ -5,7 +5,7 @@ description: "2 çocuk sahibi engelli ailemiz için kıyafet, eşya, kira ve kı
 author: bekder
 categories: [Duyuru]
 image: assets/images/blog/duyuru.jpeg
-featured: false
+featured: true
 ---
 
 2 çocuk sahibi engelli ailemiz için kıyafet, eşya, kira ve kirtasiye desteğine ihtiyacımız bulunmaktadır. Bu hususta engelli ailemiz ile doğrudan irtibata geçerek desteklerinizi iletebilmeniz için araç olmak istiyoruz.
