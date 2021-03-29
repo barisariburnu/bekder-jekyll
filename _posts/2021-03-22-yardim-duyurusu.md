@@ -8,9 +8,9 @@ image: assets/images/blog/duyuru.jpeg
 featured: true
 ---
 
-2 çocuk sahibi engelli ailemiz için kıyafet, eşya, kira ve kirtasiye desteğine ihtiyacımız bulunmaktadır. Bu hususta engelli ailemiz ile doğrudan irtibata geçerek desteklerinizi iletebilmeniz için araç olmak istiyoruz.
+Zihinsel engelli 2 çocuk, ortopedik engelli anne ve ortopedik engelli babadan oluşan ailemiz için kıyafet, eşya, kira ve kirtasiye desteğine ihtiyacımız bulunmaktadır. Ailemizin izniyle yaşadıkları eve ait video ve fotoğrafları sizlerle paylaştık. Bu hususta engelli ailemiz ile doğrudan irtibata geçerek desteklerinizi iletebilmeniz için araç olmak istiyoruz.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s4jktcwoVZE?controls=0" title="Yardım Duyurusu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom:15px;"></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/s4jktcwoVZE?controls=0" title="Yardım Duyurusu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom:15px;"></iframe>
 
 İhtiyaç sahibi engelli ailemiz için her türlü desteğinizi bekliyoruz. Yaptığınız ve yapacağınız tüm destekler için teşekkür ederiz.
 
