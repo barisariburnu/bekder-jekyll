@@ -14,6 +14,10 @@ Zihinsel engelli 2 çocuk, ortopedik engelli anne ve ortopedik engelli babadan o
 
 İhtiyaç sahibi engelli ailemiz için her türlü desteğinizi bekliyoruz. Yaptığınız ve yapacağınız tüm destekler için teşekkür ederiz.
 
+Not: Çocuklarımızın okuluna yakın bir konumda kiraladığımız evin 1 yıllık kirası "Yalçın Kollektif Şirketi" tarafından karşılanmıştır. Özer Yalçın Bey ve Yalçın Kollektif Şirketi ailesine canı gönülden teşekkür ederiz. 
+
+Not 2: Benzer acil ihtiyaçlara sahip 4 engelli ailemiz daha bulunmaktadır. Derneğimizin maddi gücü tüm ailelerimize tek seferde destek olmaya yetmediğinden acil ihtiyaç durumlarını dikkate alarak ailelerimize ivedi olarak destek olmak gayreti içerisindeyiz.
+
 ### Görseller
 
 <a href="/assets/images/blog/hayat-boyu-destek-1.jpeg" data-lightbox="hayat-boyu-destek" data-title="Yardım Duyurusu">
