@@ -5,7 +5,7 @@ description: "2021 EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Kura Usu
 author: bekder
 categories: [duyuru]
 image: assets/images/blog/ekpss-duyurusu-2019.jpg
-featured: true
+featured: false
 ---
 
 2021 EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Kura Usulü İle Yapılan Yerleştirme Sonuçları Açıklandı.
