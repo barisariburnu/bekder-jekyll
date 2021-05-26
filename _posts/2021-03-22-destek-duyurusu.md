@@ -5,7 +5,7 @@ description: "2 çocuk sahibi engelli ailemiz için kıyafet, eşya, kira ve kı
 author: bekder
 categories: [Duyuru]
 image: assets/images/blog/duyuru.jpeg
-featured: true
+featured: false
 ---
 
 Zihinsel engelli 2 çocuk, ortopedik engelli anne ve ortopedik engelli babadan oluşan ailemiz için kıyafet, eşya, kira ve kirtasiye desteğine ihtiyacımız bulunmaktadır. Ailemizin izniyle yaşadıkları eve ait video ve fotoğrafları sizlerle paylaştık. Bu hususta engelli ailemiz ile doğrudan irtibata geçerek desteklerinizi iletebilmeniz için araç olmak istiyoruz.

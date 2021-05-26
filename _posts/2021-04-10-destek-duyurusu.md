@@ -5,7 +5,7 @@ description: "İhtiyaç sahibi engelli ailemiz için her türlü desteği sunan 
 author: bekder
 categories: [Duyuru]
 image: assets/images/blog/duyuru.jpeg
-featured: true
+featured: false
 ---
 
 [Destek Duyurusu](https://bursaengellilerkulturdernegi.com/duyuru/2021/03/22/destek-duyurusu.html) yazımızda bahsettiğimiz zihinsel engelli 2 çocuk, ortopedik engelli anne ve ortopedik engelli babadan oluşan ailemizin tüm ihtiyaçlarını yardımseverlerimizin destekleriyle karşıladık.
