@@ -20,30 +20,30 @@ Not: Benzer acil ihtiyaçlara sahip engelli ailelerimiz bulunmaktadır. Derneği
 
 ### Görseller
 
-<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-1.jpeg" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
-    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-1.jpeg" alt="Hayat Boyu Destek" />
+<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-1.JPG" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
+    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-1.JPG" alt="Hayat Boyu Destek" />
 </a>
 
-<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-2.jpeg" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
-    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-2.jpeg" alt="Hayat Boyu Destek" />
+<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-2.JPG" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
+    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-2.JPG" alt="Hayat Boyu Destek" />
 </a>
 
-<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-3.jpeg" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
-    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-3.jpeg" alt="Hayat Boyu Destek" />
+<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-3.JPG" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
+    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-3.JPG" alt="Hayat Boyu Destek" />
 </a>
 
-<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-4.jpeg" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
-    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-4.jpeg" alt="Hayat Boyu Destek" />
+<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-4.JPG" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
+    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-4.JPG" alt="Hayat Boyu Destek" />
 </a>
 
-<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-5.jpeg" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
-    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-5.jpeg" alt="Hayat Boyu Destek" />
+<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-5.JPG" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
+    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-5.JPG" alt="Hayat Boyu Destek" />
 </a>
 
-<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-6.jpeg" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
-    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-6.jpeg" alt="Hayat Boyu Destek" />
+<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-6.JPG" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
+    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-6.JPG" alt="Hayat Boyu Destek" />
 </a>
 
-<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-7.jpeg" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
-    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-7.jpeg" alt="Hayat Boyu Destek" />
+<a href="/assets/images/blog/hayat-boyu-destek-mayis-2021-7.JPG" data-lightbox="hayat-boyu-destek" data-title="Hayat Boyu Destek">
+    <img src="/assets/images/blog/hayat-boyu-destek-mayis-2021-7.JPG" alt="Hayat Boyu Destek" />
 </a>
