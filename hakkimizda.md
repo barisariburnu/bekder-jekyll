@@ -14,25 +14,25 @@ Bursa Engelliler Kültür Derneği; bünyesinde bulunan engelli vatandaşlar iç
 
 #### Eğitim
 
-Düzenli aralıklara öğrencilerimize eğitim/burs desteği yapıyoruz. Siz de öğrencilerimizin eğitim hayatlarına katkıda bulunmak için [bağışçı](/bagisci-ol) olabilirsiniz.
+Düzenli aralıklara öğrencilerimize eğitim/burs desteği yapıyoruz. Siz de öğrencilerimizin eğitim hayatlarına katkıda bulunmak için [bize ulaşabilirsiniz](/bize-ulasin).
 
 #### Sağlık
 
-Tedavi imkanı bulunan üyelerimizin ameliyat masraflarını karşılıyoruz. Siz de engelli üyelerimizin hayatlarına umutla dokunmak için [bağışçı](/bagisci-ol) olabilirsiniz.
+Tedavi imkanı bulunan üyelerimizin ameliyat masraflarını karşılıyoruz. Siz de engelli üyelerimizin hayatlarına umutla dokunmak için [bize ulaşabilirsiniz](/bize-ulasin).
 
 #### Erzak
 
-Her ay üyelerimize erzak desteği gerçekleştiriyoruz. Siz de engelli ailelerimizin temel gıda ihtiyaçlarına katkıda bulunmak için [bağışçı](/bagisci-ol) olabilirsiniz.
+Her ay üyelerimize erzak desteği gerçekleştiriyoruz. Siz de engelli ailelerimizin temel gıda ihtiyaçlarına katkıda bulunmak için [bize ulaşabilirsiniz](/bize-ulasin).
 
 #### Kira
 
-Her ay üyelerimizin kira ödemelerine destek oluyoruz. Siz de barınma ihtiyacını karşılamakta zorlanan engelli ailelerimize destek olmak için [bağışçı](/bagisci-ol) olabilirsiniz.
+Her ay üyelerimizin kira ödemelerine destek oluyoruz. Siz de barınma ihtiyacını karşılamakta zorlanan engelli ailelerimize destek olmak için [bize ulaşabilirsiniz](/bize-ulasin).
 
 ## İstatistikler
 
 Bursa Engelliler Kültür Derneği; engelli ve engelli ailelerine hizmet etmeyi vizyon olarak edinmiştir. Engelli ve engelli ailelerinin yaşadıkları sorunları toplumun diğer fertlerine anlatarak bu kişilerin toplumsal yaşama aktif katılımına öncülük yapar.
 
-Yardımseverleri ve engelli ailelerini bir araya getirerek gönül köprüsü oluşturur. Yardımseverlerin bağışları; eğitim, sağlık, gıda ve kira yardımı şeklinde doğrudan engelli ailelerine ulaştırılır.
+Yardımseverleri ve engelli ailelerini bir araya getirerek gönül köprüsü oluşturur. Yardımseverlerin destekleri; eğitim, sağlık, gıda ve kira yardımı şeklinde doğrudan engelli ailelerine ulaştırılır.
 
 > 50+ Öğrenciye Eğitim ve Burs Desteği
 
