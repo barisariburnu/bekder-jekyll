@@ -5,7 +5,7 @@ description: "Bursa Engelliler Kültür Derneği ailesi olarak destekçilerimiz 
 author: bekder
 categories: [Yardım]
 image: assets/images/blog/yardim.jpg
-featured: true
+featured: false
 ---
 
 Bursa Engelliler Kültür Derneği ailesi olarak daimi destekçimiz Plaskal Plastik Kalıp San. Tic. Ltd. Şti. firması yöneticisi Hakan Efe Bey tarafından kesilen kurbanlık hayvanlarımızın eşit biçimde paylaştırdık ve pay dağıtımlarımızı gerçekleştirdik.
